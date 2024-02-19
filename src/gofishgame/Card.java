@@ -1,7 +1,7 @@
 package gofishgame;
 /*
  *
- * @author jennyle, saadkhan, destinyodia
+ * @author saadkhan, jennyle, destinyodia
  *
  */
 // Enum representing card ranks

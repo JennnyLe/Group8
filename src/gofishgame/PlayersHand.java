@@ -5,7 +5,7 @@ import java.util.Iterator;
 import java.util.List;
 /*
  *
- * @author jennyle, saadkhan, destinyodia
+ * @author saadkhan, jennyle, destinyodia
  *
  */
 // Class representing a player's hand and books

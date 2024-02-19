@@ -5,7 +5,7 @@ import java.util.Collections;
 import java.util.List;
 /*
  *
- * @author jennyle, saadkhan, destinyodia
+ * @author saadkhan, jennyle, destinyodia
  *
  */
 // Class representing a deck of cards

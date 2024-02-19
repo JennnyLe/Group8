@@ -4,7 +4,7 @@ package gofishgame;
 /**
  * A class that models each Player in the game. Players have an identifier, which should be unique.
  *
- * @author jennyle, saadkhan, destinyodia
+ * @author saadkhan, jennyle, destinyodia
  *
  */
 // Class representing a player

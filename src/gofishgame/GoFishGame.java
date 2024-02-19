@@ -7,7 +7,7 @@ import java.util.Random;
 
 /*
  *
- * @author jennyle, saadkhan, destinyodia
+ * @author saadkhan, jennyle, destinyodia
  *
  */
 // Class representing the Go Fish game
