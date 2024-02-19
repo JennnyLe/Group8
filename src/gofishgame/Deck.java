@@ -3,7 +3,11 @@ package gofishgame;
 import java.util.ArrayList;
 import java.util.Collections;
 import java.util.List;
-
+/*
+ *
+ * @author jennyle, saadkhan, destinyodia
+ *
+ */
 // Class representing a deck of cards
 class Deck {
     private final List<Card> cards;

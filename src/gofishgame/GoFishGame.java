@@ -5,7 +5,11 @@ import java.util.List;
 import java.util.Scanner;
 import java.util.Random;
 
-
+/*
+ *
+ * @author jennyle, saadkhan, destinyodia
+ *
+ */
 // Class representing the Go Fish game
 public class GoFishGame {
     private Deck deck;

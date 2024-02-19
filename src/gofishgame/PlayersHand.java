@@ -3,7 +3,11 @@ package gofishgame;
 import java.util.ArrayList;
 import java.util.Iterator;
 import java.util.List;
-
+/*
+ *
+ * @author jennyle, saadkhan, destinyodia
+ *
+ */
 // Class representing a player's hand and books
 public class PlayersHand {
     private List<Card> cards;
