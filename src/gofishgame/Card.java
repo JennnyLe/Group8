@@ -1,9 +1,11 @@
 package gofishgame;
+
 /*
- *
+ * This class represents the playing card in the game (52 deck cards).
  * @author saadkhan, jennyle, destinyodia
  *
  */
+
 // Enum representing card ranks
 enum Rank {
     ACE, TWO, THREE, FOUR, FIVE, SIX, SEVEN, EIGHT, NINE, TEN, JACK, QUEEN, KING
